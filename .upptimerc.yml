@@ -6,7 +6,7 @@ sites:
   - name: Auth
     url: https://auth.wah.su
   - name: Cloud
-    url: https://cloud.wah.su
+    url: https://cloud.wah.su$NC
   - name: Vault
     url: https://vault.wah.su
 
