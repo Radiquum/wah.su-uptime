@@ -9,16 +9,20 @@ sites:
     url: https://cloud.wah.su$NC
   - name: Vault
     url: https://vault.wah.su
+  - name: Search
+    url: https://search.wah.su
+  - name: Minecraft ZeroTier Server
+    url: $MC
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /wah.su-uptime
+  cname: status.wah.su
+  # baseUrl: /wah.su-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: wah.su Alerts
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a backup status page for services at wah.su. [Main status page is here](https://status.wah.su)
+  name: wah.su Status
+  introTitle: This is a status page for services at [wah.su](https://wah.su)
+  introMessage: ""
   navbar:
     - title: Status
       href: /
