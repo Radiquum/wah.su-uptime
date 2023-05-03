@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wah.su.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "0.95%",
-    "uptimeDay": "0.95%",
-    "uptimeWeek": "0.95%",
-    "uptimeMonth": "0.95%",
-    "uptimeYear": "0.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 985,
     "timeWeek": 985,
     "timeMonth": 985,
     "timeYear": 985,
-    "dailyMinutesDown": {
-      "2023-05-03": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vault",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 751,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 784,
+    "timeDay": 784,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   }
 ]
