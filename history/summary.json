@@ -76,17 +76,19 @@
     "url": "$MC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-zero-tier-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 951,
-    "timeWeek": 908,
-    "timeMonth": 908,
-    "timeYear": 908,
-    "dailyMinutesDown": {}
+    "time": 1528,
+    "timeDay": 2789,
+    "timeWeek": 1528,
+    "timeMonth": 1528,
+    "timeYear": 1528,
+    "dailyMinutesDown": {
+      "2023-05-07": 0
+    }
   }
 ]
