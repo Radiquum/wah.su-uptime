@@ -1,7 +1,7 @@
 url: $MC
-status: down
-code: 502
-responseTime: 4461
-lastUpdated: 2023-05-17T01:40:23.724Z
+status: up
+code: 200
+responseTime: 1980
+lastUpdated: 2023-05-17T07:16:39.972Z
 startTime: Wed May 03 2023 13:28:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
