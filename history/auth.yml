@@ -1,7 +1,7 @@
 url: https://auth.wah.su
-status: up
-code: 200
-responseTime: 1169
-lastUpdated: 2023-06-09T23:00:52.953Z
+status: down
+code: 530
+responseTime: 182
+lastUpdated: 2023-06-09T23:12:24.773Z
 startTime: Wed May 03 2023 12:50:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
