@@ -1,7 +1,7 @@
 url: https://vault.wah.su
-status: up
-code: 200
-responseTime: 713
-lastUpdated: 2023-06-15T23:00:40.327Z
+status: down
+code: 530
+responseTime: 114
+lastUpdated: 2023-06-16T12:51:15.734Z
 startTime: Wed May 03 2023 12:51:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
